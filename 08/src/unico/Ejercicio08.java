@@ -7,6 +7,8 @@ public class Ejercicio08 {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
 		
+//Realiza un programa que resuelva una ecuación de segundo grado (del tipo: ax2 + bx + c = 0).
+
 		double a;
 		double b;
 		double c;
